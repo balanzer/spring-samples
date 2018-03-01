@@ -1,7 +1,7 @@
 # Spring Boot
 [Top](#top)
 
-### Angular CLI ###
+### Build & Run ###
 
 1. Build- mvn clean package
 1. run - java -jar target/app.jar
