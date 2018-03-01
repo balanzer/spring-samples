@@ -1,3 +1,10 @@
+server:
+  port: 80 
+  
+management:
+  security:
+    enabled: false
+---
 spring:
   profiles: dev
 server:
